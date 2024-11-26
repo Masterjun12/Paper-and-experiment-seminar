@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation - Research Summaries
 
-This repository contains summaries of key papers related to brain tumor segmentation using MRI data. The research spans various approaches, including generative adversarial networks (GANs), U-Net architectures, and comprehensive surveys on existing methods.
+This repository summarizes key papers that provide insights into MRI brain tumor segmentation, MRI preprocessing, and various model architectures.
 
 | **Paper Title**                                                                                   | **Link**                                                                                                 | **Summary**                                                                                                                         |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
